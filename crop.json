@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner":"ca-app-pub-8697844878482426/9296657472",
+	"admob_inter":"ca-app-pub-8697844878482426/7263760197",
 
 	"APP_KEY": "13bc39059",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "Start Cropp",
 	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "https://www.cropstnakt.com",
+	"URL" : "https://www.cropp.com/special/store/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
